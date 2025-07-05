@@ -1,5 +1,5 @@
 from pyrogram import filters
-from TheApi import api
+from TheApi import TheApi
 
 from VIPMUSIC import app
 from config import BANNED_USERS
